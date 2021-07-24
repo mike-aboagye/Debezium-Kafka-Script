@@ -15,4 +15,4 @@ This bash script contains three function as shown below:
 **attach_plugin** : This function attaches the debezium connector to a kafka broker and restarts kafka broker. 
 
 
-### How to execute the bash script 
+## How to execute the bash script 
