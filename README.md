@@ -12,4 +12,7 @@ This bash script contains three function as shown below:
 
 **auth_user** : This function checks if a user is a privileged/root user or not. If the user executing the script is not a root user or a user without privileged capabilities, then the script does not execute. 
 
-**attach_plugin** : This function attaches the debezium connector to a kafka broker and restarts kafka broker.
+**attach_plugin** : This function attaches the debezium connector to a kafka broker and restarts kafka broker. 
+
+
+### How to execute the bash script 
