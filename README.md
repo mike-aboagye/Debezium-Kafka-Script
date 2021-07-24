@@ -1,4 +1,6 @@
 
+![debezium image](https://images.app.goo.gl/hJioaBAdgsa76o3b7)
+
 
 ## Purpose of bash script:  
 
