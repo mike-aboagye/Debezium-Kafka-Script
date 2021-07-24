@@ -1,5 +1,5 @@
 
-![debezium image](https://images.app.goo.gl/5WUcFgmRsu4WFpnq6)
+![debezium image](https://www.paradigmadigital.com/wp-content/uploads/2017/06/debezium-1.png)
 
 
 ## Purpose of bash script:  
