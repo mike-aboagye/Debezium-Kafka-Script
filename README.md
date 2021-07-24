@@ -1,5 +1,6 @@
 
 ![debezium image](https://www.paradigmadigital.com/wp-content/uploads/2017/06/debezium-1.png)
+![Apache Kafka](https://icon-icons.com/icon/apache-kafka/138937)
 
 
 ## Purpose of bash script:  
